@@ -1,0 +1,32 @@
+#footer {
+    color: #2E2F42;
+    background-color: #2E2F42;
+    font-family: "Roboto", sans-serif;
+
+
+}
+
+.footer-logo {
+    font-family: "Releway", sans-serif;
+    color: #F4F4FD;
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    text-decoration: none;
+    line-height: 24px;
+}
+
+.logo-span {
+    color: #4D5AE5;
+}
+#footer p{
+    color: #F4F4FD;
+   font-family:"Roboto", sans-serif; 
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px; 
+    letter-spacing: 0.02em;
+   
+}
+
