@@ -1,17 +1,15 @@
-
 .header {
   background-color: #ffffff;
 }
 
-
 .header-logo {
-  font-family: "Raleway", sans-serif; 
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.03em;
-  line-height: 1.17; 
-  color: #2e2f42;    
+  line-height: 1.33;
+  color: #2e2f42;
 }
 
 .logo-span {
@@ -24,7 +22,7 @@
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #2e2f42; 
+  color: #2e2f42;
 }
 
 .navigation-menu a:hover,
